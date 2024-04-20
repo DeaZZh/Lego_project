@@ -1,0 +1,1 @@
+The goal of this project is to analyze the impact of external factors on LEGO sales and to forecast LEGO sales. In terms of variable selection, it includes not only major economic indicators and stock prices but also tweet comments for sentiment analysis.
